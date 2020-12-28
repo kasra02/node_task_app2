@@ -45,6 +45,8 @@ jspm_packages/
 playground/
 images/
 config/
+images
+config
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
