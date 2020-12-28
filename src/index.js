@@ -8,7 +8,7 @@ const userrouter = require('./router/user')
 const taskrouter = require('./router/task')
 
 const app = express()
-const port = process.env.PORT || 3000
+const port = process.env.PORT
 
 //middleware
 // app.use((req,res,next)=>{
