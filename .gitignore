@@ -47,6 +47,8 @@ images/
 config/
 images
 config
+.mongodb.js
+mongodb.js
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
